@@ -1,0 +1,22 @@
+#db
+
+db.sqlite3
+
+#env
+
+password_manager_env
+
+
+#python file
+
+py
+
+
+#cache
+password_manager/__pycache__
+
+
+#migration
+password_app/migrations
+
+
